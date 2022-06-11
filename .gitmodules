@@ -1,0 +1,6 @@
+[submodule "war_resources_frontend"]
+	path = war_resources_frontend
+	url = https://github.com/Jackhalabardnik/war_resources_frontend
+[submodule "WarResourcesAPI"]
+	path = WarResourcesAPI
+	url = https://github.com/janfig/WarResourcesAPI
