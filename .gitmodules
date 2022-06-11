@@ -5,5 +5,5 @@
 [submodule "WarResourcesAPI"]
 	path = WarResourcesAPI
 	url = git@github.com:janfig/WarResourcesAPI.git
-	branch = master
+	branch = main
 
