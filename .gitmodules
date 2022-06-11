@@ -1,6 +1,9 @@
 [submodule "war_resources_frontend"]
 	path = war_resources_frontend
 	url = git@github.com:Jackhalabardnik/war_resources_frontend.git
+	branch = master
 [submodule "WarResourcesAPI"]
 	path = WarResourcesAPI
 	url = git@github.com:janfig/WarResourcesAPI.git
+	branch = master
+
